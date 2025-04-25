@@ -8,8 +8,8 @@ import { Component, OnInit } from '@angular/core';
 export class CriarPensamentoComponent implements OnInit {
   pensamento = {
     id: '1',
-    conteudo: '',
-    autoria: '',
+    conteudo: 'A rosa azul significa que o impossível é possível',
+    autoria: 'Kaiser',
     modelo: ''
   }
 
