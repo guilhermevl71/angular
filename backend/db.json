@@ -1,22 +1,46 @@
 {
   "pensamentos": [
     {
-      "id": 1,
+      "id": "1",
       "conteudo": "Que bom que vc veio",
       "autoria": "Nay",
       "modelo": "modelo1"
     },
     {
-      "id": 2,
+      "id": "2",
       "conteudo": "Qualquer coisa",
       "autoria": "Nay",
       "modelo": "modelo3"
     },
     {
-      "id": 3,
+      "id": "3",
       "conteudo": "madrugada é solidao",
       "autoria": "Nay",
       "modelo": "modelo2"
+    },
+    {
+      "id": 1,
+      "conteudo": "A rosa azul significa que o impossível é possível",
+      "autoria": "Kaiser",
+      "modelo": "modelo1"
+    },
+    {
+      "id": 1,
+      "conteudo": "A vida é uma eterna constante, entre a ânsia de ter e o tedio de possuir",
+      "autoria": "...",
+      "modelo": "modelo2"
+    },
+    {
+      "id": 1,
+      "conteudo": "sasadsadsadsadsad",
+      "autoria": "...",
+      "modelo": "modelo3"
+    },
+    {
+      "id": "332d",
+      "conteudo": "nunca duvide de um mano",
+      "autoria": "Brandão",
+      "modelo": "modelo3"
     }
   ]
 }
